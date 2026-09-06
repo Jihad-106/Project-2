@@ -1,4 +1,6 @@
 # EtherChannel Deployment – Cisco Packet Tracer
+![Network Topology](topology.png)
+
 
 This project demonstrates the deployment of **EtherChannel** in a Cisco network using **Cisco Packet Tracer**. Multiple physical links are bundled into a single logical link to provide **higher bandwidth, redundancy, and improved network reliability**.
 
